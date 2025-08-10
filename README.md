@@ -1,18 +1,19 @@
-# Imersão de Dados com Python - Alura
+📊 Imersão de Dados com Python - Alura
+Este é o meu primeiro dashboard de dados desenvolvido durante a Imersão de Dados com Python da Alura.
+O projeto foi construído com Python e publicado online usando Streamlit.
 
-Meu primeiro dashboard de dados no ar! 
+🚀 Tecnologias e bibliotecas utilizadas
+Pandas → Manipulação e limpeza de dados
 
-Durante a Imersão de Dados com Python da Alura, mergulhei no mundo da análise de dados e criei meu primeiro dashboard interativo usando Streamlit. 
+Plotly e Matplotlib → Visualizações interativas e gráficas
 
-Nesse projeto, pude colocar em prática: 
-🔹 Manipulação e limpeza de dados com Pandas
-🔹 Visualizações interativas com Plotly e Matplotlib
-🔹 Publicação online do projeto para acesso de qualquer lugar
+Streamlit → Criação e publicação do dashboard
 
-Foi incrível ver como Python, aliado a ferramentas de visualização, pode transformar dados em insights claros e acessíveis. 
+📌 Objetivo do projeto
+Transformar dados brutos em insights claros e acessíveis, permitindo a visualização e interação de forma prática.
 
-Confira o resultado aqui: https://lnkd.in/d3hPCnPW
+🔗 Acesse o dashboard
+https://imersaodados-python-alura2025.streamlit.app/
 
-Agradeço aos professores Valquíria Alencar, Vinicius Caridá, Ph.D. e Marcell Almeida por todo conteúdo, didática e incentivo durante a imersão. 
-
-Estou animada para continuar explorando e desenvolvendo novos projetos de Data Science!
+🙏 Agradecimentos
+Agradeço aos professores Valquíria Alencar, Vinicius Caridá, Ph.D. e Marcell Almeida pela didática e incentivo durante a imersão.
