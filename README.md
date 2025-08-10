@@ -1,5 +1,7 @@
 📊 Imersão de Dados com Python - Alura
+
 Este é o meu primeiro dashboard de dados desenvolvido durante a Imersão de Dados com Python da Alura.
+
 O projeto foi construído com Python e publicado online usando Streamlit.
 
 🚀 Tecnologias e bibliotecas utilizadas
